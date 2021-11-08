@@ -18,3 +18,12 @@
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=kawaaa26&count_private=true&show_icons=true&theme=cobalt">
   </a>
 </div>
+
+<br />
+  
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawaaa26&theme=vue"><br />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawaaa26&count_private=true&theme=default">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kawaaa26&count_private=true&theme=default">
+</div>
